@@ -1,3 +1,6 @@
+*{
+  font-family: "Courier New", Courier, monospace;
+}
 .force{
   border-radius: 0 !important;
 }
